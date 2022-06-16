@@ -1,9 +1,9 @@
 Electiva 3 - Inteligencia Artificial
 
-    CSP: N Reinas
-    Responsable: Sergio Britos
-    Implementación: 
-        Python 3.5:(pip install <<nombre del módulo>>; para agregar el complemento)
+    CSP: N Queens
+    Author: Sergio Britos
+    Implementation: 
+        Python 3.5:(pip install <<nombre del módulo>>; to add packages)
             Requisitos:
                 - Interprete de python 3.5
                 - Complementos:
@@ -15,6 +15,5 @@ Electiva 3 - Inteligencia Artificial
                     virtualenv==15.0.1
         Framework: PyCharm 2016.1
         
-Obs.: El módulo 'easygui==0.98.0' puede generar errores de compatibilidad con la sintaxis aceptada por Python3.5, por tanto se debe modificar manualmente 
-el código fuente del módulo conforme se presenten los errores(simplemente modificando la sintaxis).
+
 
