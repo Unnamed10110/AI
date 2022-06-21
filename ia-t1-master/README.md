@@ -3,7 +3,7 @@ Electiva 3 - Inteligencia Artificial
     CSP: N Queens
     Author: Sergio Britos
     Implementation: 
-        Python 3.5:(pip install <<nombre del módulo>>; to add packages)
+        Python 3.5:(pip install <<module_name>>; to add packages)
             Requisitos:
                 - Interprete de python 3.5
                 - Complementos:
